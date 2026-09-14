@@ -9,7 +9,6 @@ Building modern interfaces, learning by building, and turning ideas into real pr
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliBayat-88)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 </div>
 
@@ -40,7 +39,7 @@ I enjoy taking an idea from a simple interface to a complete working product —
 
 ### Backend & Tools
 
-<img src="https://skillicons.dev/icons?i=supabase,git,github,vite,npm,vscode" />
+<img src="https://skillicons.dev/icons?i=supabase,git,github,vite,npm,webstorm" />
 
 </div>
 
@@ -48,55 +47,4 @@ I enjoy taking an idea from a simple interface to a complete working product —
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
 
-### 🎵 Spotify Clone
-
-A Spotify-inspired music web application built with React, focused on reusable components, responsive UI and client-side state management.
-
-**Stack**
-
-`React` `Tailwind CSS` `React Router` `Context API` `Swiper`
-
-🔗 **[Repository](https://github.com/AliBayat-88/spotify-project)**
-
-</td>
-
-<td width="50%">
-
-### ✈️ SafarKon
-
-A travel agency web application with tour discovery, search, booking flows and an admin-oriented interface.
-
-**Stack**
-
-`JavaScript` `Tailwind CSS` `Supabase` `SweetAlert2`
-
-🔗 **[Repository](https://github.com/AliBayat-88/tour-agency-six)**
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌱 Currently Learning
-
-```text
-Next.js
-├── App Router
-├── Server Components
-├── Data Fetching & Caching
-└── Authentication
-
-TypeScript
-├── Advanced Types
-├── Generics
-└── Type-safe React
-
-Frontend Architecture
-├── Scalable project structure
-├── State management
-└── Production-ready patterns
