@@ -8,8 +8,7 @@ Crafting scalable, high-performance web applications with clean architecture and
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
@@ -26,14 +25,6 @@ Crafting scalable, high-performance web applications with clean architecture and
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Tech Stack | Highlights | Links |
-| :--- | :--- | :--- | :--- |
-| **Project One** | Next.js, TS, Tailwind, Supabase | Full-featured SaaS dashboard with real-time updates and role-based access. | [Live Demo](https://demo.com) · [Code](https://github.com/AliBayat-88) |
-| **Project Two** | React, TypeScript | High-performance interactive web app with advanced client-side state. | [Live Demo](https://demo.com) · [Code](https://github.com/AliBayat-88) |
-
----
 
 ### 🛠️ Tech Stack
 
