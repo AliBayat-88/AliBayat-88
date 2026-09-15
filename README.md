@@ -9,7 +9,7 @@ Crafting scalable, high-performance web applications with clean architecture and
 <br/>
 
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alidevmaster88@gmail.com)
 
 </div>
 
